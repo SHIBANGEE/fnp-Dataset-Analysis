@@ -2,11 +2,10 @@
 This project focuses on analyzing customer behavior and business insights using data from Ferns N Petals, a popular e-commerce platform for flowers and gifting.
 
 📁 Project Structure
-File Name	Description
-customers.csv	Contains customer demographic and location data
-orders.csv	Contains order-level information such as order ID, date, customer ID, etc.
-products.csv	Includes details of products ordered
-fnp dataset project.xlsx	Analysis summary, dashboards, and key insights (Excel format)
+customers.csv --> Contains customer demographic and location data
+orders.csv --> Contains order-level information such as order ID, date, customer ID, etc.
+products.csv --> Includes details of products ordered
+fnp dataset project.xlsx --> Analysis summary, dashboards, and key insights (Excel format)
 
 🎯 Objectives
 📊 Analyze customer purchase behavior
