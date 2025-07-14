@@ -4,10 +4,10 @@ A data analytics project exploring customer behavior and sales trends for FNP, a
 
 📁 Files Included
 
-customers.csv – Customer details
-orders.csv – Order transactions
-products.csv – Product catalog
-fnp dataset project.xlsx – Summary insights & dashboards
+1. customers.csv – Customer details
+2. orders.csv – Order transactions
+3. products.csv – Product catalog
+4. fnp dataset project.xlsx – Summary insights & dashboards
 
 🎯 Goals
 
