@@ -1,28 +1,35 @@
-🪴 FNP (Ferns N Petals) Data Analysis Project
-This project focuses on analyzing customer behavior and business insights using data from Ferns N Petals, a popular e-commerce platform for flowers and gifting.
+🌸 FNP (Ferns N Petals) Data Analysis Project
 
-📁 Project Structure
-customers.csv --> Contains customer demographic and location data
-orders.csv --> Contains order-level information such as order ID, date, customer ID, etc.
-products.csv --> Includes details of products ordered
-fnp dataset project.xlsx --> Analysis summary, dashboards, and key insights (Excel format)
+A data analytics project exploring customer behavior and sales trends for FNP, an e-commerce gifting platform.
 
-🎯 Objectives
-📊 Analyze customer purchase behavior
+📁 Files Included
 
-🔍 Identify most popular products and categories
+customers.csv – Customer details
+orders.csv – Order transactions
+products.csv – Product catalog
+fnp dataset project.xlsx – Summary insights & dashboards
 
-🛍️ Understand order patterns (frequency, recency, monetary value)
+🎯 Goals
 
-🌍 Explore regional trends in customer purchases
+1. Analyze top products & categories
+2. Understand customer purchase patterns
+3. Identify high-value customers (RFM)
+4. Recommend business improvements
 
-📈 Provide recommendations to improve business performance
+🛠️ Tools Used
 
-✅ Key Insights
-Top-selling products and categories
+1. Excel / Power BI
+2. Python (Pandas, Seaborn)
+3. Jupyter Notebook
 
-High-value customers based on RFM (Recency, Frequency, Monetary) analysis
+🔍 Key Insights
 
-Seasonal trends in gifting and order spikes
+1. Seasonal trends in gifting
+2. Top-performing products
+3. Customer segmentation insights
 
-Recommendations to enhance personalization and retention
+🚀 Getting Started
+
+1. Clone this repo
+2. Open the Excel file for dashboards
+3. Use CSVs for custom analysis
